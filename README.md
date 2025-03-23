@@ -1,5 +1,3 @@
-# feb-2025-introduction-to-css
-
 # Introduction to CSS
 
 ## Objectives
